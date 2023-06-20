@@ -1,0 +1,8 @@
+C:\Users\Owais.Sayed\source\repos\WEEK3\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+C:\Users\Owais.Sayed\source\repos\WEEK3\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+C:\Users\Owais.Sayed\source\repos\WEEK3\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Users\Owais.Sayed\source\repos\WEEK3\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csproj.AssemblyReference.cache
+C:\Users\Owais.Sayed\source\repos\WEEK3\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owais.Sayed\source\repos\WEEK3\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Owais.Sayed\source\repos\WEEK3\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+C:\Users\Owais.Sayed\source\repos\WEEK3\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb
